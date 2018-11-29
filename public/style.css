@@ -1,0 +1,17 @@
+h1, h2, h3 {
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px 1px 8px black;
+  color: yellow;
+}
+h1 {
+  font-size: 4em;  
+}
+.routerview {
+  background: red;
+  border-top-left-radius: 3em;
+  padding-bottom: 2em;
+}
+body {
+  width: 85%;
+  margin: 0 auto 2em;
+}
